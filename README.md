@@ -2,14 +2,14 @@
 This project is to implement resume classification using ML
 The main objective of the project is to implement text classification and 
 preprocessing the data  to 
-Expand Contractions
-covert to Lower Case
-Remove Punctuations
-Remove words and digits containing digits
-Remove Stopwords
-Rephrase Text
-Stemming and Lemmatization
-Remove White spaces
+Expand Contractions,                                                                       
+covert to Lower Case,
+Remove Punctuations,
+Remove words and digits containing digits,
+Remove Stopwords,
+Rephrase Text,
+Stemming and Lemmatization,
+Remove White spaces.
 
 and then using autokeras text classification with optimal training
 we have arrived better accuracy on test data
