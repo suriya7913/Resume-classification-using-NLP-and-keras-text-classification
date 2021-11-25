@@ -1,7 +1,7 @@
 # Resume-classification-using-NLP-and-keras-text-classification
 This project is to implement resume classification using ML
 The main objective of the project is to implement text classification and 
-preprocessing the data  to 
+preprocessing the data with NLTK  to 
 Expand Contractions,                                                                       
 convert to Lower Case,
 Remove Punctuations,
